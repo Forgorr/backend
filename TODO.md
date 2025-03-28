@@ -1,8 +1,8 @@
 # Functionality
 
-## Setup Prisma
+## Setup Drizzle
 
-- [ ] Create two tables: `users` and `passwords`
+- [x] Create tables: `users`, `vaults`, `credentials` and `audit logs`.
 
 ## Users:
 
@@ -17,8 +17,8 @@
 
 - [ ] Implement traditional username/password system with JWT using RSA or ECDSA
 - [ ] Implement OAuth with with JWT using RSA or ECDSA
- [ ] Implement MFA with with JWT using RSA or ECDSA
- [ ] Verify user authentication (Can be done later)
+- [ ] Implement MFA with with JWT using RSA or ECDSA
+- [ ] Verify user authentication (Can be done later)
 
 ### Handle user registration
 
